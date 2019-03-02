@@ -1,0 +1,160 @@
+{
+	"sections": [
+		{
+			"type": "profile",
+			"name": "Mert Ahmet Güneş",
+			"phone_number": "+46 72 501 33 75",
+			"location": "Lund, Sweden",
+			"highlight": "Experienced Senior iOS Application Developer who has an obsession with delivering pixel perfect applications that provides the best user experience possible.",
+			"profile_urls": [
+				"https://www.linkedin.com/in/mertahmetgunes/",
+				"https://github.com/gunesmert"
+			]
+		},
+		{
+			"type": "work_experience",
+			"title": "Work Experience",
+			"values": [
+				{
+					"company_identifier": 0,
+					"title": "Senior iOS Developer",
+					"start": "Aug/2017",
+					"end": "present",
+					"location": "Lund, Sweden",
+					"highlights": [
+						"Working as a consultant as the only iOS Developer in the company.",
+						"Worked on one in-house project and served to four customers so far, including {link-0}, Mobimeo GmbH, {link-1} and IKEA Group."
+					]
+				},
+				{
+					"company_identifier": 1,
+					"title": "Senior iOS Developer (Consultant)",
+					"start": "Jan/2019",
+					"end": "present",
+					"location": "Sweden",
+					"highlights": [
+						"Working with a team of 8 iOS developers on IKEA Group’s new store application which will be used worldwide.",
+						"Focusing on product details, search & browse and first time experience flows.",
+						"Codebase is a mixture of Objective-C & Swift."
+					]
+				},
+				{
+					"company_identifier": 2,
+					"title": "Senior iOS Developer & Team Lead (Consultant)",
+					"start": "Jan/2018",
+					"end": "Sep/2018",
+					"location": "Lund, Sweden",
+					"highlights": [
+						"Led the iOS team of Search and Ticketing modules of a white label public transportation project.",
+						"Development language was Swift with the help of RxSwift, Carthage and MVVM-C."
+					]
+				},
+				{
+					"company_identifier": 3,
+					"title": "Senior iOS Developer",
+					"start": "Dec/2014",
+					"end": "Aug/2017",
+					"location": "Istanbul, Turkey",
+					"highlights": [
+						"Worked for 8 startup projects focused mainly on social media, IoT (smart home), dating and stock trading.",
+						"Developed all codebases from scratch by taking part in almost every phase of the process from product discovery to project delivery.",
+						"Prominent projects are {link-2} and {link-3}.",
+						"Organised monthly events of an organisation named {link-4}",
+						"Worked with Swift (since 2.2) mainly and Objective-C."
+					]
+				},
+				{
+					"company_identifier": 4,
+					"title": "Junior iOS Developer",
+					"start": "Feb/2014",
+					"end": "Dec/2014",
+					"location": "Istanbul, Turkey",
+					"highlights": [
+						"Took part on three projects focused mainly on utilities, stock trading and plane ticketing.",
+						"Prominent project is {link-5}."
+					]
+				},
+				{
+					"company_identifier": 5,
+					"title": "Junior iOS Developer",
+					"start": "Oct/2011",
+					"end": "Feb/2014",
+					"location": "Istanbul, Turkey",
+					"highlights": [
+						"Worked on 10+ projects mainly focused on stock trading.",
+						"Prominent project is {link-6}."
+					]
+				}
+			]
+		}
+	],
+	"links": [
+		{
+			"identifier": 0,
+			"url": "https://minut.com/",
+			"display_value": "Minut"
+		},
+		{
+			"identifier": 1,
+			"url": "https://www.loomis.se",
+			"display_value": "Loomis Sverige AB"
+		},
+		{
+			"identifier": 2,
+			"url": "https://keenhome.io",
+			"display_value": "Keen Home"
+		},
+		{
+			"identifier": 3,
+			"url": "https://itunes.apple.com/us/app/moment-parent-communication/id1187710270?mt=8",
+			"display_value": "Moment - Parent Communication"
+		},
+		{
+			"identifier": 4,
+			"url": "https://www.meetup.com/cocoaist/",
+			"display_value": "Cocoaist"
+		},
+		{
+			"identifier": 5,
+			"url": "https://itunes.apple.com/us/app/wi-fi-deadspot/id919118247",
+			"display_value": "Wi-Fi Deadspot"
+		},
+		{
+			"identifier": 6,
+			"url": "https://www.foreks.com/foreksMobile",
+			"display_value": "ForeksMobile"
+		}
+	],
+	"companies": [
+		{
+			"identifier": 0,
+			"company_url": "https://www.tretton37.com",
+			"name": "tretton37 AB"
+		},
+		{
+			"identifier": 1,
+			"company_url": "https://www.ikea.com",
+			"name": "IKEA Group"
+		},
+		{
+			"identifier": 2,
+			"company_url": "https://www.mobimeo.com",
+			"name": "Mobimeo GmbH"
+		},
+		{
+			"identifier": 3,
+			"company_url": "https://hipolabs.com",
+			"name": "HipoLabs"
+		},
+		{
+			"identifier": 4,
+			"company_url": "http://www.amvg.com",
+			"name": "aMVG"
+		},
+		{
+			"identifier": 5,
+			"company_url": "https://www.foreks.com",
+			"name": "Foreks Bilgi Iletişim Hizmetleri AŞ"
+		}
+	]
+}
