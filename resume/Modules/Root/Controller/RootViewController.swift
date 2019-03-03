@@ -1,6 +1,6 @@
 import UIKit
 
-final class RootViewController: UIViewController {
+final class RootViewController: BaseViewController {
 	// MARK: - Status Bar
 	override var childForStatusBarStyle: UIViewController? {
 		return children.last
